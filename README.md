@@ -1,2 +1,2 @@
-# Guess-a-Number-cpp
+# Guess-a-Number
 Vitamin C++ version of the python version.
